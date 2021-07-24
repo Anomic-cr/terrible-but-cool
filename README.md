@@ -1,10 +1,5 @@
 #  LOGIN SYSTEM IN PHP AND MYSQL: User Authentication system.
-
-###### VERSION 1.0.0
-
-User authentication in web developemen is used to authorized and 
-restrict users to certain pages in a web appplication.
-
+A terrible website but does what it's suposed to do
 ## REGISTERATION SYSTEM
 
 ### DATABASE TABLE IN MYSQL
